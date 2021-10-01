@@ -1,0 +1,22 @@
+{
+    "name": "test",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node ./bin/www"
+    },
+    "dependencies": {
+        "axios": "latest",
+        "debug": "~2.6.9",
+        "jade": "~1.11.0",
+        "bcrypt": "latest",
+        "morgan": "~1.9.1",
+        "mysql2": "^2.2.5",
+        "express": "~4.16.1",
+        "sequelize": "latest",
+        "http-errors": "~1.6.3",
+        "jsonwebtoken": "latest",
+        "cookie-parser": "~1.4.4",
+        "nodejs-form-parse": "latest"
+    }
+}
